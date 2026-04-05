@@ -2,6 +2,8 @@
 
 **Dollar-per-Decision Metric | FinOps & Observability for Agentic Systems**
 
+Demo - [Video Link](https://northeastern-my.sharepoint.com/:v:/g/personal/gangurde_a_northeastern_edu/IQBEKZSv7KhgS4vnvuCophZ8ASNbtUEAR6IkDTTpjWrFG14?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8mHZTT)
+
 ## Quick Start
 
 ```bash
